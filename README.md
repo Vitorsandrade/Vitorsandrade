@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Vitor Santos, estudante na área de programação e tecnologia!
-👨‍💻 - Possuo habilidades como desenvolvedor Back-end e estou sempre disposto a aprender novas tecnologias.
-🔍 - Atualmente estou estudando a linguagem Java e o paradigma POO.
-📘 - Tenho conhecimentosem Java, MySQL, JavaScript, HTML e CSS.
-
+- 👨‍💻  Possuo habilidades como desenvolvedor Back-end e estou sempre disposto a aprender novas tecnologias.
+- 🔍  Atualmente estou estudando a linguagem Java e o paradigma POO.
+- 📘  Tenho conhecimentosem Java, MySQL, JavaScript, HTML e CSS.
+##
 <div align="center">
   <a href="https://github.com/Vitorsandrade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitorsandrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
