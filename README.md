@@ -1,7 +1,7 @@
-## Olá! Eu sou o Vitor Santos, estudante na área de programação e tecnologia!
+## Olá! Me chamo Vitor Santos, e sou estudante na área de Tecnologia da Informação!
 - 👨‍💻  Possuo habilidades como desenvolvedor Back-end e estou sempre disposto a aprender novas tecnologias.
-- 🔍  Atualmente estou estudando a linguagem Java e o paradigma POO.
-- 📘  Tenho conhecimentos em Java, MySQL, JavaScript, HTML e CSS.
+- 🔍  Atualmente estou estudando o Framework Spring e Inglês.
+- 📘  Possuo conhecimentos em Java, Bancos de dados relacionais e não relacionais, JUnit, Hibernate, JavaScript, HTML e CSS.
 ##
 <div align="center">
   <a href="https://github.com/Vitorsandrade">
