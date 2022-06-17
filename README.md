@@ -1,7 +1,7 @@
 ## Olá! Me chamo Vitor Santos, e sou estudante na área de Tecnologia da Informação!
 - 👨‍💻  Possuo habilidades como desenvolvedor Back-end e estou sempre disposto a aprender novas tecnologias.
 - 🔍  Atualmente estou estudando o Framework Spring e Inglês.
-- 📘  Possuo conhecimentos em Java, Bancos de dados relacionais e não relacionais, JUnit, Hibernate, JavaScript, HTML e CSS.
+- 📘  Possuo conhecimentos em Java, Bancos de dados relacionais e não relacionais, JUnit, JavaScript, HTML e CSS.
 ##
 <div align="center">
   <a href="https://github.com/Vitorsandrade">
