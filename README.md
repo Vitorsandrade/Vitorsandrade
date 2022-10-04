@@ -3,11 +3,7 @@
 - 🔍  Atualmente estou estudando o Framework Spring e Inglês.
 - 📘  Possuo conhecimentos em Java, Bancos de dados relacionais e não relacionais, JUnit, JavaScript, HTML e CSS.
 ##
-<div align="center">
-  <a href="https://github.com/Vitorsandrade">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vitorsandrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorsandrade&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Vitor-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
