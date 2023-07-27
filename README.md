@@ -14,12 +14,18 @@
 </div>
   
 ##
+
+<div>
+<a href="https://github.com/Vitorsandrade">
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorsandrade&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=Vitorsandrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
  
 <div> 
   <a href="https://www.linkedin.com/in/vitor-santos-76856021a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vitorsantos.dandrade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
  
- 
   ![Snake animation](https://github.com/Vitorsandrade/Vitorsandrade/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+
+
